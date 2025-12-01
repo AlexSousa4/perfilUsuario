@@ -1,4 +1,5 @@
 English
+
 Simple User Registration Program
 A simple Java console application that collects and displays user data. This project serves as a practical exercise to demonstrate the use of arrays, for loops, and basic input/output operations.
 
@@ -19,6 +20,7 @@ Run the Main class.
 The program will guide you through the process of entering user data and will display the results once finished.
 
 Português
+
 Programa Simples de Cadastro de Usuários
 Uma aplicação de console em Java simples que coleta e exibe dados de usuários. Este projeto é um exercício prático para demonstrar o uso de arrays, laços de repetição for e operações básicas de entrada e saída.
 
